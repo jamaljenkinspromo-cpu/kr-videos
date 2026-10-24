@@ -1,0 +1,49 @@
+TH152 - Salinger DlyBelt-1, Old Man (Office), knee-model pop-ups
+Built 24 Oct 2026 by a scheduled cloud run (no Mac). Not launched.
+
+FINISHED FILE
+- TalkingHead-152-Office-OldMan-Salinger-DlyBelt1-KneeModelPopups.mp4
+- 11:21.3 (681.33 s), 1080x1920, 18,315 frames at 26.8811 fps (54945/2044), 94.4 MB
+- x264 veryfast ~1005 kbps, no B-frames (has_b_frames 0, pts==dts on every packet is correct), start_time 0.000, AAC 96k
+- Route: GitHub kr-videos videos/ + MANIFEST line -> daily copy puts it in this folder.
+  GitHub commit c260971110f9281b23c514a5d9dc03c1b39ae14a (md5 b9f0fa7d8a8e773fb3868459228ebd1c)
+
+HEYGEN RENDERS (all Avatar IV, expressiveness low, 9:16 1080p, natural speed, no brand glossary)
+- S1  19d481bda31f77599bb5e6b538d19cf1  Old Man Spokesperson - Office (look c16180790db84a298ce0b0b06ecf5878) + Onecompress - Podcast (3c9b519825574e0c9c696e7c6a367b27), no voice settings. Studio, 2 scenes: "Why does a knee replacement..." -> "Boy, were we wrong." | "One day, I came across a small company..." -> "...the word "revision."". 1168 words, 414.36 s
+- RICK c8434dfc4bbdc6253fba1603a51155ac  American Grandpa - Living Room (look 971a7beb8ef348d7b1ac8c4ca3cac105) + Grandpa Joe (134fb6d6515441e2b58b2157f44d5420), no voice settings. "My wife saw an ad..." -> "This is exactly what I needed." 108 words, 35.96 s
+- S2  2f1a5ec5c54699a4263ede0a740e9d4e  Salinger, same look/voice. "And here's Kristen..." 18 words, 6.28 s
+- KRISTEN dff4c4bc7fe59ab5515a91b42d7971fe  American Grandmother - Living Room (look 678e286ada0043ca9296dbbfc640c4f2) + Evelyn Harper (15c34793e92442388fc489bbcd58992b) pitch -4 speed 0.92 (her documented testimonial pairing). "Honestly, I was at rock bottom." -> "So go ahead and get your life back." 268 words, 99.68 s
+- S3  c1e280effe14ab4fa2548f89afaad18d  Salinger. "You heard it." -> "Click the link below and shop now." 482 words, 176.32 s
+- Parts sum to 2,044 words = SCRIPT.txt exactly. No voice clash (three different voices).
+
+WORD-DROP CHECK
+- Real forced alignment (pocketsphinx in the cloud) of every part against its own text: all 2,044 words placed.
+- No sentence with a run of crammed sub-50 ms words (only single "a"s), no impossible gaps. Rates: S1 2.82, S2 2.86, S3 2.73, Rick 3.00, Kristen 2.69 w/s. No patch needed, nothing re-rendered.
+
+SPEED
+- Normal-speed join 732.60 s (18,315 frames). Target 2044/3 = 681.33 s. Factor 1.075245 (+7.5%). Video re-clocked (no frames dropped or added), audio atempo by the same factor.
+
+CAPTIONS
+- Word times from the forced alignment, scaled by the speed factor. natural.py chunker (MAXLINE 26, 2 lines, max 7 words). 413 captions, 1-7 word spread 3/21/41/75/125/85/63 (peak 5). All 2,044 words and every number on screen.
+- Rows: Salinger 0.50 (box top y=960, two lines end 1134) - just under his chin. Rick 0.62 (y=1190). Kristen 0.71 (y=1363).
+- Checks on the finished file: 54 captions sampled incl. both testimonial seams - 0 fails, own-cue IoU min 0.970. Sentence starts vs speech onsets: 128 of 129 matched, median 0.023 s, p90 0.054 s.
+
+POP-UPS AND B-ROLL (panel: top y=1160, centred, scaled to fit 720x720; 26 px clear of the deepest caption in every spot; never over a face, never over a caption, nothing over the testimonials)
+0:04.41-0:14.49  01-new-knee-parts.png      "Let me show you on this knee model." -> "...plastic spacer in between."
+0:14.96-0:27.19  02-living-tissue.png       "Now, the part nobody shows you..." -> "...every single time your knee moves."
+0:41.05-0:48.39  03-calm-knee-room.png      "Now there's more swollen tissue..." -> "That's what a calm knee looks like."
+0:48.70-1:02.12  04-swollen-crowding.png    "But many of us..." -> "...it gets stretched."
+1:09.97-1:18.73  05-calm-vs-squeeze.png     "We call that The Squeeze..." -> "...sitting still."
+1:26.83-1:38.33  05-calm-vs-squeeze.png     "Your replacement can be perfectly fine..." -> "...the tighter it feels."
+1:38.57-1:49.97  06-xray-sees-vs-cant.png   "But that's only half of the answer..." -> "...about the implant."
+2:37.81-2:57.81  07-inflammation-alarm.png  "You see, deep in the tissue..." -> "...sits deep, around the joint."
+4:14.08-4:18.38  product clip (BROLL product-black-background-vertical.mp4, crop 666x720, full 4.3 s play) "Many months and more prototypes..."
+4:25.33-4:29.62  product clip, full play    "It's called the KenRelief Red Light Therapy Wrap..."
+4:31.38-4:35.68  product clip, full play    "The secret is two wavelengths... 660... 850..."
+4:39.86-5:06.77  08-swollen-to-calm.png     "Red and near-infrared light has been studied..." -> "...less tension when you straighten." (solution part only)
+- Judgment call: the shot plan gives the product clip the three lines "Many months..." through "...850 nanometer near-infrared light". The clip is only 4.3 s and freezes are not allowed, so it plays in full once at the start of each of those three lines (each play opens on the lit panel); the gaps between run bare.
+- No other b-roll added - the pop-up plan already covers every pointing line.
+- No blur (kenrelief-no-blur). No zoom crop (all three avatars already fill the frame).
+
+DRIVE
+- _FINAL: the video only lands in Drive after the daily copy, so the _FINAL entry is a text pointer for now: TH152-DlyBelt1-OldMan-11min (link).txt
