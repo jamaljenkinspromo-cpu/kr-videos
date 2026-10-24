@@ -47,3 +47,10 @@ POP-UPS AND B-ROLL (panel: top y=1160, centred, scaled to fit 720x720; 26 px cle
 
 DRIVE
 - _FINAL: the video only lands in Drive after the daily copy, so the _FINAL entry is a text pointer for now: TH152-DlyBelt1-OldMan-11min (link).txt
+
+v2 - 24 Oct 2026 (Austin: "white bar above and below the video")
+- File: TalkingHead-152-Office-OldMan-Salinger-DlyBelt1-KneeModelPopups-v2.mp4. v1 renamed _SUPERSEDED-v1-white-bars-... in the Drive folder.
+- Cause: HeyGen's studio render (part S1, 0:00-6:25) came back with a 48 px white strip at the top and bottom of every frame. The single-scene renders (S2, S3) and both testimonials did not.
+- Fix: S1 cropped 1024x1820 at (28,50) and scaled back to 1080x1920 (about 5% zoom, the house zoom-fix). No HeyGen re-render. Frame count, word times, captions and pop-up times unchanged.
+- Checked on the new file: 23 frames across the whole video, no white strip top or bottom; Salinger framing matches across his three parts; 54 captions sampled, 0 fails; sync median 0.023 s; frames line up with the master to the end. 11:21.3, 18,315 frames, 94.4 MB, has_b_frames 0, start 0.000.
+- Lesson: check the edges of every HeyGen studio (multi-scene) render for letterbox bars before building.
