@@ -1,0 +1,308 @@
+[
+ {
+  "phrase": "I'm shocked at how few",
+  "file": "/home/claude/nb/clips/k202_swell.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 0.316,
+  "len": 5.042,
+  "end": 5.358
+ },
+ {
+  "phrase": "The surgeon replaces the worn-out",
+  "file": "/home/claude/nb/clips/k196_implant.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 13.743,
+  "len": 5.042,
+  "end": 18.785
+ },
+ {
+  "phrase": "To put the new parts in",
+  "file": "/home/claude/nb/clips/k204_packed.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 23.549,
+  "len": 5.042,
+  "end": 28.591
+ },
+ {
+  "phrase": "These new joints are so",
+  "file": "/home/claude/nb/clips/k187_xray.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 52.301,
+  "len": 3.042,
+  "end": 55.343
+ },
+ {
+  "phrase": "However, because the tissue around",
+  "file": "/home/claude/nb/clips/k206_stayson.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 59.571,
+  "len": 5.042,
+  "end": 64.613
+ },
+ {
+  "phrase": "It's a tightness.",
+  "file": "/home/claude/nb/clips/k188_band.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 94.496,
+  "len": 3.042,
+  "end": 97.538
+ },
+ {
+  "phrase": "This means getting out of the car",
+  "file": "/home/claude/nb/clips/k152_car.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 100.236,
+  "len": 4.042,
+  "end": 104.278
+ },
+ {
+  "phrase": "But it's also why it can ache",
+  "file": "/home/claude/nb/clips/k165_night.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 108.278,
+  "len": 4.042,
+  "end": 112.32
+ },
+ {
+  "phrase": "Deep bends like sitting down",
+  "file": "/home/claude/nb/clips/k174_chair.mp4",
+  "kind": "sq",
+  "off": 300,
+  "start": 112.72,
+  "len": 5.042,
+  "end": 117.762
+ },
+ {
+  "phrase": "Just bend your knee back",
+  "file": "/home/claude/nb/clips/k210_bend.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 124.094,
+  "len": 5.042,
+  "end": 126.295
+ },
+ {
+  "phrase": "then straighten it all the way",
+  "file": "/home/claude/nb/clips/k211_straight.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 126.295,
+  "len": 2.6,
+  "end": 128.895
+ },
+ {
+  "phrase": "So even if you can still",
+  "file": "/home/claude/nb/clips/k171_sidewalk.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 148.107,
+  "len": 5.042,
+  "end": 153.149
+ },
+ {
+  "phrase": "You do the parking lot math",
+  "file": "/home/claude/nb/clips/k147_stairs.mp4",
+  "kind": "sq",
+  "off": 300,
+  "start": 208.863,
+  "len": 4.042,
+  "end": 212.905
+ },
+ {
+  "phrase": "You learn where the chairs",
+  "file": "/home/claude/nb/clips/k148_stool.mp4",
+  "kind": "sq",
+  "off": 300,
+  "start": 214.519,
+  "len": 4.042,
+  "end": 218.561
+ },
+ {
+  "phrase": "Think about what happens when your foot",
+  "file": "/home/claude/nb/clips/k198_shoe.mp4",
+  "kind": "sq",
+  "off": 500,
+  "start": 234.238,
+  "len": 5.042,
+  "end": 237.963
+ },
+ {
+  "phrase": "The shoe didn't shrink,",
+  "file": "/home/claude/nb/clips/k201_shoe3d.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 237.963,
+  "len": 5.042,
+  "end": 242.141
+ },
+ {
+  "phrase": "So when you bend your knee, that swollen",
+  "file": "/home/claude/nb/clips/k210_bend.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 242.141,
+  "len": 5.042,
+  "end": 247.183
+ },
+ {
+  "phrase": "It started with pain pills",
+  "file": "/home/claude/nb/clips/k141_pills.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 269.734,
+  "len": 4.042,
+  "end": 273.776
+ },
+ {
+  "phrase": "Then came the nerve block,",
+  "file": "/home/claude/nb/clips/k143_needle.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 274.101,
+  "len": 3.042,
+  "end": 277.143
+ },
+ {
+  "phrase": "to nerve ablation, where",
+  "file": "/home/claude/nb/clips/k215_nerve.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 283.014,
+  "len": 4.042,
+  "end": 287.056
+ },
+ {
+  "phrase": "But the problem is, the smoke",
+  "file": "/home/claude/nb/clips/k216_source.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 338.314,
+  "len": 2.2,
+  "end": 340.514
+ },
+ {
+  "phrase": "Is it the stairs?",
+  "file": "/home/claude/nb/clips/k147_stairs.mp4",
+  "kind": "sq",
+  "off": 300,
+  "start": 377.445,
+  "len": 4.042,
+  "end": 381.487
+ },
+ {
+  "phrase": "Because the thing that's been studied",
+  "file": "/home/claude/nb/broll/mech-combo.mp4",
+  "kind": "panel",
+  "off": "618:620:248:1202",
+  "start": 408.993,
+  "len": 9.968,
+  "end": 418.961
+ },
+ {
+  "phrase": "Professional red light machines can",
+  "file": "/home/claude/nb/clips/k181_clinic.mp4",
+  "kind": "sq",
+  "off": 300,
+  "start": 430.481,
+  "len": 4.042,
+  "end": 434.523
+ },
+ {
+  "phrase": "That's a lot of hands",
+  "file": "/home/claude/nb/clips/k182_price.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 457.611,
+  "len": 3.042,
+  "end": 460.653
+ },
+ {
+  "phrase": "So how has one company",
+  "file": "/home/claude/nb/broll/product-clip.mp4",
+  "kind": "panel",
+  "off": "666:720:216:1134",
+  "start": 476.543,
+  "len": 4.296,
+  "end": 480.839
+ },
+ {
+  "phrase": "You just take it out",
+  "file": "/home/claude/nb/clips/k118_wrapclose.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 491.198,
+  "len": 5.042,
+  "end": 496.24
+ },
+ {
+  "phrase": "You take the stairs without",
+  "file": "/home/claude/nb/clips/k237_stairsok.mp4",
+  "kind": "sq",
+  "off": 150,
+  "start": 505.657,
+  "len": 4.042,
+  "end": 508.38
+ },
+ {
+  "phrase": "You walk the dog",
+  "file": "/home/claude/nb/clips/k244_dog.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 508.38,
+  "len": 4.042,
+  "end": 511.013
+ },
+ {
+  "phrase": "You go to your grandkid's",
+  "file": "/home/claude/nb/clips/k247_blocks.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 511.013,
+  "len": 5.042,
+  "end": 516.055
+ },
+ {
+  "phrase": "Inside every KenRelief wrap",
+  "file": "/home/claude/nb/clips/k230_beams.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 518.306,
+  "len": 5.042,
+  "end": 523.348
+ },
+ {
+  "phrase": "In a randomized trial,",
+  "file": "/home/claude/nb/clips/k260_trial.mp4",
+  "kind": "sq",
+  "off": 300,
+  "start": 550.989,
+  "len": 5.042,
+  "end": 556.031
+ },
+ {
+  "phrase": "But KenRelief's soft design",
+  "file": "/home/claude/nb/clips/k93_armchair.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 588.558,
+  "len": 5.0,
+  "end": 593.558
+ },
+ {
+  "phrase": "In fact, to your friends",
+  "file": "/home/claude/nb/clips/k245_armarm.mp4",
+  "kind": "sq",
+  "off": 420,
+  "start": 597.541,
+  "len": 5.042,
+  "end": 602.583
+ }
+]
